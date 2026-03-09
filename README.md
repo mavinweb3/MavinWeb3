@@ -1,16 +1,37 @@
-## Hi there 👋
+# ⚡ Hi, I'm Mavin 
 
-<!--
-**mavinweb3/MavinWeb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Agentic Web3 Developer | Smart Contracts & Modern Frontends
 
-Here are some ideas to get you started:
+I build secure EVM smart contracts and high-performance decentralized applications (dApps). By leveraging AI workflows and industry-standard security frameworks, I ship production-ready Web3 infrastructure from zero to one.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+**Web3 & Blockchain**
+* **Languages:** Solidity 
+* **Frameworks/Libraries:** Ethers.js, Wagmi, Hardhat
+* **Security:** OpenZeppelin 
+
+**Frontend Architecture**
+* **Core:** React.js, Next.js, TypeScript
+* **Styling & Animation:** Tailwind CSS, GSAP
+
+---
+
+### 🚀 What I Build
+- **Custom Smart Contracts:** Secure token architecture (ERC-20, ERC-721) and custom business logic deployed to EVM networks.
+- **Wallet Integrations:** Seamless MetaMask, WalletConnect, and Web3Modal setups for modern frontends.
+- **dApp Interfaces:** Fast, responsive, and animated UI/UX designed to make Web3 accessible to everyday users.
+
+---
+
+### 📫 Let's Connect & Build
+
+Looking for a developer to bring your Web3 project to life? Let's talk.
+
+* **Upwork:** https://www.upwork.com/freelancers/~011fce301a40ac51ae
+* **LaborX:** [Mavin Dev]https://laborx.com/freelancers/users/id434933
+* **X (Twitter):** [@MavinWeb3](https://x.com/MavinWeb3)
+
+*(Note: Always verify my handle before sending DMs or contracts to avoid impersonators.)*
