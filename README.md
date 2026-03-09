@@ -9,7 +9,8 @@ I build secure EVM smart contracts and high-performance decentralized applicatio
 ### 🛠️ Tech Stack & Arsenal
 
 **Web3 & Blockchain**
-* **Languages:** Solidity 
+* **Languages:** Solidity
+* **Development Suites:** thirdweb SDK, Hardhat
 * **Frameworks/Libraries:** Ethers.js, Wagmi, Hardhat
 * **Security:** OpenZeppelin 
 
